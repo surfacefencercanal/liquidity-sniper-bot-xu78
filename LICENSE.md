@@ -1,4 +1,4 @@
-# 
+# ultimate liquidity sniper bot | meme-coin-scanning + auto-sell offers the most advanced liquidity sniper bot, with meme-coin-scanning and auto-sell. Ideal for professional MEV and
 
 
 
